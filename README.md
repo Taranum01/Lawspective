@@ -1,4 +1,4 @@
-# Lawspective
+# Lawspective- Your legal Consultancy
 
 In the judicial system, the scope of work with text documents is very significant, 
 and the decision-making process must always be fair and transparent. Manually processing such information is very difficult and sometimes almost impossible. 
