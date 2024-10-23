@@ -43,13 +43,6 @@ The project aims to:
 | LSTM  | 0.87     | 0.63     | 0.72   | 0.60      | 0.31 |
 | BERT  | 0.92     | 0.83     | 0.83   | 0.83      | 0.27 |
 
-## Snapshots
-
-Below are some visual snapshots of the platform:
-1. **Homepage:** Showcases a brief introduction to legal assistance.
-2. **Legal Assistant:** Users can input case facts and receive suggestions for applicable legal charges.
-3. **IPC Section Matching:** Identifies relevant IPC sections based on user input.
-
 ## Results
 
 - The models showed varying degrees of success in accurately predicting charges and matching them to IPC sections.
